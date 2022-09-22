@@ -37,7 +37,7 @@ MongoDB Cloud 5.0.12
 
 
 
-### 자세한 영상 : 
+### 자세한 영상 : https://youtu.be/b2OxVkeQ-wE
 
 ## 4. 핵심기능  
 
